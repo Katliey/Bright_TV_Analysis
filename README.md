@@ -54,9 +54,3 @@ The work is based on the BrightTV Case Study, which includes datasets containing
 	•	Miro for planning.
 	•	Databricks for Explanatory Data Analysis(EDA) and Microsoft Excel for pivot table and graphs analysis.
 	•	Google Looker for Dashboard Analysis and Final presentation on Microsoft PowerPoint .
-
-
-📬 Contact
-
-For questions or collaboration, reach out to:
-Analyst / Contributor: Katlego Mabina
